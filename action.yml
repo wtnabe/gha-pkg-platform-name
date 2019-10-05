@@ -3,7 +3,7 @@ description: give matrix.os and ouput platform name
 author: wtnabe
 runs:
   using: node12
-  main: app.js
+  main: index.js
 inputs:
   os:
     description: 'give matrix.os'
